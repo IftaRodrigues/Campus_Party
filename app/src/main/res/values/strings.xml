@@ -10,7 +10,7 @@
     <string name="menu_home">Home</string>
     <string name="menu_atividades">Atividades e Desafios</string>
     <string name="menu_quiz">Quiz do Campusero</string>
-    <string name="menu_tools">Tools</string>
+    <string name="menu_ingressos">Ingressos</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
 </resources>

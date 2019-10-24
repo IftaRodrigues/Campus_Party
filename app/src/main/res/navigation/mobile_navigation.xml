@@ -24,9 +24,9 @@
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
-        android:id="@+id/nav_tools"
+        android:id="@+id/nav_ingressos"
         android:name="com.example.campusparty.ui.tools.ToolsFragment"
-        android:label="@string/menu_tools"
+        android:label="@string/menu_ingressos"
         tools:layout="@layout/fragment_tools" />
 
     <fragment

@@ -17,9 +17,9 @@
             android:icon="@drawable/ic_assignment_black_24dp"
             android:title="@string/menu_quiz" />
         <item
-            android:id="@+id/nav_tools"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="@string/menu_tools" />
+            android:id="@+id/nav_ingressos"
+            android:icon="@drawable/ic_card_giftcard_black_24dp"
+            android:title="@string/menu_ingressos" />
     </group>
 
     <item android:title="Communicate">
